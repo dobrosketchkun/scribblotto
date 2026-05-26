@@ -4,7 +4,7 @@ A single-page lottery number picker that conditions its output on mouse-movement
 
 The mouse motion is the entropy source. A PRNG is not used at any point.
 
-Try here 
+Try here https://dobrosketchkun.github.io/scribblotto/
 
 ## How it works
 
